@@ -1,4 +1,4 @@
-/* * Data converted from /home/daniel/esp32_examples/protocols/http_server/simple/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/daniel/led_control/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

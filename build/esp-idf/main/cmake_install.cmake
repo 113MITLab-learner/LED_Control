@@ -1,4 +1,4 @@
-# Install script for directory: /home/daniel/esp32_examples/protocols/http_server/simple/main
+# Install script for directory: /home/daniel/led_control/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
