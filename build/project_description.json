@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "simple",
-    "project_version":    "72f19c9-dirty",
+    "project_version":    "8d5f6c3-dirty",
     "project_path":       "/home/daniel/led_control",
     "idf_path":           "/home/daniel/esp/esp-idf",
     "build_dir":          "/home/daniel/led_control/build",
